@@ -5,6 +5,8 @@
 //  Created by Cameron Goodhue on 2/06/24.
 //
 
+
+//  this is testing a pull
 //import Foundation
 ////https://api.openweathermap.org/data/2.5/weather?q=Sydney&APPID=e62fcb58d7bc164dc93734ab87c211c0&units=metric
 //The apikey does not need to be in the class to be called. Note as API keys should not be shared in any public repository.
